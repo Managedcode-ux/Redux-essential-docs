@@ -8,7 +8,7 @@ const reactionEmoji = {
 	hooray: '🎉',
 	heart: '❤️',
 	rocket: '🚀',
-	eyes: '👀'
+	eyes: '👀',
 }
 
 export const ReactionButtons = ({ post }) => {
